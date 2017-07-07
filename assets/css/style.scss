@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#header {
+  nav {
+    li {
+      &.left {
+        float: left;
+        margin-right: 6px;
+      }
+
+      &.right {
+        float: right;
+        margin-left: 6px;
+      }
+    }
+  }
+}
+
+hr {
+  margin: 0 0 0px;
+}
