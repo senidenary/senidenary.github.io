@@ -4,7 +4,11 @@
 @import "{{ site.theme }}";
 
 #header {
+  margin-top: 0px;
+
   nav {
+	display: block;
+
     li {
       &.left {
         float: left;
@@ -22,3 +26,4 @@
 hr {
   margin: 0 0 0px;
 }
+
