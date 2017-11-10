@@ -5,6 +5,10 @@
 * [Project Euler](https://projecteuler.net/progress=InvertedSaint)
 * [Regex Crosswords](https://regexcrossword.com/profile/35072)
 
+### Gaming
+* [Steam](http://steamcommunity.com/id/Saint)
+* [PlayStation Network](https://psnprofiles.com/InvertedSaint)
+
 ### Media
 * [MyAnimeList](https://myanimelist.net/animelist/InvertedSaint)
 * [followmy.tv](http://followmy.tv/u/InvertedSaint)
