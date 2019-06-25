@@ -1,6 +1,9 @@
 # Projects
 
-### Games
+### Published Games
+* [Jupiter & Mars](https://www.playstation.com/en-us/games/jupiter-and-mars-ps4/)
+
+### Indie Games
 * [Agon](https://github.com/senidenary/agon) - A version of the [classic French game](https://en.wikipedia.org/wiki/Agon_(game)).
 
 ### Game Jams
@@ -12,4 +15,4 @@
 
 ### Websites
 * [Senidenary](https://github.com/senidenary/senidenary.github.io) - This site.
-
+* [Erin Absalom](https://www.erintowns.com.au) - My wife's personal page.
