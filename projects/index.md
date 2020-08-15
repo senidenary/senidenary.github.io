@@ -15,4 +15,4 @@
 
 ### Websites
 * [Senidenary](https://github.com/senidenary/senidenary.github.io) - This site.
-* [Erin Absalom](https://www.erintowns.com.au) - My wife's personal page.
+* [Erin Absalom](https://www.erin.absalom.com.au) - My wife's personal page.
