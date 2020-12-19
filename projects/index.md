@@ -14,6 +14,10 @@
   * Available on PC.
   * Credited with Special Thanks.
 
+### Open Source Contributions
+* [VTK](https://vtk.org) (on [GitLab](https://gitlab.kitware.com/Senidenary))
+  * Contributed patches dealing with threading issues.
+
 ### Indie Games
 * [Agon](https://github.com/senidenary/agon)
   * A version of the [classic French game](https://en.wikipedia.org/wiki/Agon_(game)).
