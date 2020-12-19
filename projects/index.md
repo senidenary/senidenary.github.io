@@ -1,18 +1,18 @@
 # Projects
 
 ### Published Games
-* Rugby Challenge 4
-  * Available on PlayStation 4, Xbox One.
-  * Still in early access.
 * [AFL Evolution 2](https://www.wickedwitch.com/afl-evolution-2)
   * Available on PlayStation 4, Xbox One, Nintendo Switch.
   * Credited as Programmer.
-* [Age of Empires II: Definitive Edition](https://www.wickedwitch.com/age-of-empires-2-definitive-edition)
-  * Available on PC.
-  * Credited with Special Thanks.
 * [Jupiter & Mars](https://www.wickedwitch.com/jupiter-and-mars)
   * Available on PlayStation 4. Works with PlayStation VR.
   * Credited as Programmer.
+* Rugby Challenge 4
+  * Available on PlayStation 4, Xbox One.
+  * Still in early access.
+* [Age of Empires II: Definitive Edition](https://www.wickedwitch.com/age-of-empires-2-definitive-edition)
+  * Available on PC.
+  * Credited with Special Thanks.
 
 ### Indie Games
 * [Agon](https://github.com/senidenary/agon)
