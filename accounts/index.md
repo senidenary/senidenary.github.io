@@ -12,5 +12,5 @@
 
 ### Misc
 * [LinkedIn](https://www.linkedin.com/in/haroldabsalom/)
-* [Gamasutra](http://www.gamasutra.com/blogs/author/HaroldAbsalom/913551/) (Defunct)
+* [Game Developer](https://www.gamedeveloper.com/author/harold-absalom) (Defunct)
 
