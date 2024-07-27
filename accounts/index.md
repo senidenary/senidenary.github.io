@@ -2,7 +2,7 @@
 
 ### Tech
 * [GitHub](https://github.com/senidenary)
-* [VTK GitLab](https://gitlab.kitware.com/Senidenary)
+* [GitLab](https://gitlab.com/Senidenary)
 
 ### Gaming
 * [Steam](http://steamcommunity.com/id/Saint)
@@ -11,4 +11,5 @@
 ### Misc
 * [LinkedIn](https://www.linkedin.com/in/haroldabsalom/)
 * [Game Developer](https://www.gamedeveloper.com/author/harold-absalom) (Defunct)
+* [Moby Games](https://www.mobygames.com/person/1063514/harold-absalom/)
 
