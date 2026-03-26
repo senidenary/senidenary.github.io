@@ -4,3 +4,8 @@
 > computer programmers.
 
 \- Donald Knuth, The Art of Computer Programming, Volume 2: Seminumerical Algorithms
+
+{:style="text-align:center;"}
+[![Steam](/assets/images/steam.svg)](http://steamcommunity.com/id/Saint)
+[![PSN](/assets/images/psn.svg)](https://psnprofiles.com/InvertedSaint)
+[![LinkedIn](/assets/images/linkedin.svg)](https://www.linkedin.com/in/haroldabsalom/)

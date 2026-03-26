@@ -3,27 +3,11 @@
 
 @import "{{ site.theme }}";
 
-#header {
-  margin-top: 0px;
+h1 a {
+  text-decoration: none;
+  color: inherit;
 
-  nav {
-	display: block;
-
-    li {
-      &.left {
-        float: left;
-        margin-right: 6px;
-      }
-
-      &.right {
-        float: right;
-        margin-left: 6px;
-      }
-    }
+  &:hover {
+    text-decoration: none;
   }
 }
-
-hr {
-  margin: 0 0 0px;
-}
-
